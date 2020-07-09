@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "": "/"
+        },
+        "classmap": [
+            "./UserName.php"
+        ]
+    },
+    "require": {
+        "phpunit/phpunit": "^9.2"
+    }
+}
